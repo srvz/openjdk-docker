@@ -1,2 +1,2 @@
 # openjdk-docker
-openjdk debian slim base image
+openjdk debian buster slim base image
